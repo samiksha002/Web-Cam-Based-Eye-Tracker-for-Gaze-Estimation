@@ -1,6 +1,9 @@
 This project is an advanced Eye Tracker System developed using Python, OpenCV, and MediaPipe,Machine Learning designed for real-time eye movement detection and tracking.
 
+This webcam-based eye-tracking system offers an affordable solution for tracking gaze direction, achieving 79% improved accuracy using a Multioutput Regressor with SVR, linear regression, and Kalman filtering for stability. Real-time pupil detection is facilitated by MediaPipe, with applications spanning healthcare (neurological disease detection), education (personalized learning), accessibility (device control via eye movements), and immersive gaming. Future work focuses on integrating AI and AR/VR while ensuring ethical use and data privacy.
 Features
+
+Publicatioin: https://ieeexplore.ieee.org/document/10724037
 
 High Accuracy: Achieved a 96% accuracy rate through precise calibration and machine learning integration.
 
@@ -25,6 +28,7 @@ Implemented a calibration process to enhance eye-tracking accuracy.
 Developed algorithms to handle variations in lighting and positional shifts, ensuring reliability.
 
 Built and integrated a virtual keyboard application for practical use cases like accessibility tools.
+
 
 How To Run?
 
