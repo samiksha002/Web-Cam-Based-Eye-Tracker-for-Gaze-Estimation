@@ -32,7 +32,7 @@ Built and integrated a virtual keyboard application for practical use cases like
 
 How To Run?
 
-git clone https://github.com/your-username/eye-tracker.git
+git clone https://github.com/samiksha002/Web-Cam-Based-Eye-Tracker-for-Gaze-Estimation.git
 
 Install The Below Requirements
 
